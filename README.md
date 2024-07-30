@@ -9,7 +9,7 @@ This project demonstrates a simple toggle switch to switch between light and dar
 
 ## Hosted Link
 
-View the live version of the project [here]().
+View the live version of the project [here](https://praveen-toggle-dark-mode.netlify.app/).
 
 ## Technologies Used
 
